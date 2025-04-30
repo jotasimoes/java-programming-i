@@ -1,75 +1,65 @@
 # Java Programming I – MOOC
 
-This repository contains the completed exercises from the **Java Programming I** course, provided by the **University of Helsinki**.
+This repository contains the completed exercises from the **Java Programming I** course, provided by the **University of Helsinki** through the [MOOC.fi](https://java-programming.mooc.fi/) platform.
 
-The course places strong emphasis on problem-solving, program structure, and the fundamentals of object-oriented programming.
+The course introduces programming fundamentals using Java and emphasizes problem-solving, structured thinking, and the foundations of object-oriented programming.
 
-The TMC plugin is used to run and submit exercises. It automatically tests the code against predefined test cases provided by the course.
+> ⏱️ **Estimated workload:** ~100 hours, 10-15 hours per part.
 
-## 📘 Course Overview
+The course was completed over **7 weeks**, with each part focusing on core programming concepts and reinforced by practical exercises.
 
-- **Provider:** University of Helsinki
-- **Platform:** [MOOC.fi](https://java-programming.mooc.fi/)
-- **Technologies:** Java (JDK 11+), NetBeans with TMC 1.5.0
+---
 
-The course is designed to build a strong foundation in Java, starting with the basics and progressing to more advanced programming concepts. Each part contains multiple hands-on exercises designed to reinforce the concepts taught.
+## 🧰 Environment and Tools
 
-## 🗂️ Repository Structure
+- **Programming Language:** Java (JDK 11+)
+- **IDE:** NetBeans
+- **Testing Tool:** TMC Plugin (v1.5.0), which provides automated feedback and code validation
 
-Each folder (`part01` to `part07`) corresponds to one part of the course and contains the exercises solved in that section.
+---
 
-## 📚 Contents by Part
+## 📚 Course Content
 
-### `part01` – Introduction to Programming
-- Printing to console
-- Reading user input
-- Simple arithmetic and string operations
-- Writing your first methods
-- Structure of a Java program
+### `part01` – Getting Started with Programming
+- Introduction to programming and required tools
+- Printing output and reading user input
+- Variables and numeric calculations
+- Conditional statements
+- Programming in society
 
-### `part02` – Conditional Statements and Loops
-- `if`, `else if`, and `else` conditions
-- `while` and `for` loops
-- Boolean logic
-- Building simple interactive programs
+### `part02` – Repetition and Modularization
+- Problem-solving patterns using loops
+- Repeating functionality (`while`, `for`)
+- Dividing programs using methods
 
-### `part03` – Methods and Debugging
-- Creating and calling methods
-- Method parameters and return values
-- Code reuse and organization
-- Basic debugging techniques
+### `part03` – Lists, Arrays, and Strings
+- Discovering and fixing errors
+- Using lists and arrays to store data
+- String handling and manipulation
 
-### `part04` – Lists and Strings
-- Working with `ArrayList`
-- For-each loops
-- String manipulation
-- Searching and filtering data
+### `part04` – Introduction to Object-Oriented Programming
+- Creating and using objects
+- Storing objects in lists
+- Reading structured data from files
 
-### `part05` – Introduction to Object-Oriented Programming
-- Defining classes and objects
-- Fields, constructors, and methods
-- `toString()` method
-- Object interaction
+### `part05` – Deeper into OOP
+- Object-oriented design principles
+- Method and constructor overloading
+- Reference vs. primitive types
 
-### `part06` – More Object-Oriented Programming
-- Encapsulation and data hiding
-- Lists of objects
-- Nested objects
-- Working with external classes and modules
+### `part06` – Objects within Objects and Program Structure
+- Nested objects and lists
+- Separating UI from logic
+- Introduction to unit testing
 
-### `part07` – Final Projects and Recap
-- Applying all learned concepts in a final mini-project
-- Code readability and structure
-- Consolidation of object-oriented principles
+### `part07` – Programming Paradigms and Algorithms
+- Programming paradigms and algorithmic thinking
+- Solving larger, open-ended problems
+- Final review of course content
 
-## 💡 Purpose
-
-This repository serves as:
-- A personal learning record
-- A reference for anyone studying Java or completing the same course
-- A way to showcase foundational Java programming knowledge
+---
 
 ## 📎 Notes
 
-Course materials and exercises © University of Helsinki – MOOC.fi.  
-This repository contains only my own exercise solutions and is not affiliated with the official course team.
+- The course materials and exercises are © University of Helsinki – MOOC.fi.
+- This repository contains my own solutions as a personal learning archive and is not affiliated with the course authors.
